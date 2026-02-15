@@ -28,7 +28,7 @@ namespace TruckStore.Business
             order.TotalAmount = (order.BasePrice * order.Quantity) - discount;
 
             _repository.Save(order);
-            Console.WriteLine($"\nOrder processed successfully. Total: ${order.TotalAmount}");
+            Console.WriteLine($"\nOrder processed successfully. Total: ${order.TotalAmount:N}");
         }
     }
 }
