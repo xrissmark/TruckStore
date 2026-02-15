@@ -23,7 +23,7 @@ namespace TruckStore
             {
                 ModelName = "Volvo FH 540",
                 Quantity = 10,
-                BasePrice = 1000000
+                BasePrice = 1_000_000m
             };
 
             processor.Process(myOrder);

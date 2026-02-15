@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35818.85 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckStore", "TruckStore\TruckStore.csproj", "{FB826D43-6EB8-441C-A61F-B070C09CCD71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckStoreTest", "TruckStoreTest\TruckStoreTest.csproj", "{FDF4DCEC-C237-445F-B252-829C417E2EAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FB826D43-6EB8-441C-A61F-B070C09CCD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB826D43-6EB8-441C-A61F-B070C09CCD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB826D43-6EB8-441C-A61F-B070C09CCD71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF4DCEC-C237-445F-B252-829C417E2EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF4DCEC-C237-445F-B252-829C417E2EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF4DCEC-C237-445F-B252-829C417E2EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF4DCEC-C237-445F-B252-829C417E2EAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
